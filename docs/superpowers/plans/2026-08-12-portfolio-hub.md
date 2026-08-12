@@ -17,10 +17,10 @@
 - Create: `PORTFOLIO_EVIDENCE.md`
 - Create: `INTERVIEW_GUIDE.md`
 
-- [ ] Write a two-project-first profile and four-project evidence matrix
-- [ ] Link every repository and verified merged PR
-- [ ] Check Markdown with `git diff --check` and scan for placeholders
-- [ ] Commit the profile documents
+- [x] Write a two-project-first profile and four-project evidence matrix
+- [x] Link every repository and verified merged PR
+- [x] Check Markdown with `git diff --check` and scan for placeholders
+- [x] Commit the profile documents
 
 ### Task 2: Primary-project interview packs
 
@@ -30,17 +30,17 @@
 - Create: `Log-AI-Assistant/docs/interview/portfolio-interview-pack.md`
 - Modify: `Log-AI-Assistant/README.md`
 
-- [ ] Record positioning, three failure-first stories, live/replay/static demo fallbacks, and technical questions
-- [ ] Link each pack from its project README
-- [ ] Check relative links and run `git diff --check`
-- [ ] Commit and push the existing portfolio branches
+- [x] Record positioning, three failure-first stories, live/replay/static demo fallbacks, and technical questions
+- [x] Link each pack from its project README
+- [x] Check relative links and run `git diff --check`
+- [x] Commit and push the existing portfolio branches
 
 ### Task 3: GitHub presentation
 
 **Files:**
 - Publish: `chenyi-c/chenyi-c`
 
-- [ ] Create and push the public profile repository
-- [ ] Add concise descriptions and topics to the four portfolio repositories
-- [ ] Confirm all four merged PR checks remain successful
-- [ ] Confirm no path containing `code-navi` appears in any changed-file list
+- [x] Create and push the public profile repository
+- [x] Add concise descriptions and topics to the four portfolio repositories
+- [x] Confirm all four merged PR checks remain successful
+- [x] Confirm no path containing `code-navi` appears in any changed-file list
