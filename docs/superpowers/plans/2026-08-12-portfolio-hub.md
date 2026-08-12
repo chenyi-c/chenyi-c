@@ -18,7 +18,7 @@
 - Create: `INTERVIEW_GUIDE.md`
 
 - [ ] Write a two-project-first profile and four-project evidence matrix
-- [ ] Link every repository and verified draft PR
+- [ ] Link every repository and verified merged PR
 - [ ] Check Markdown with `git diff --check` and scan for placeholders
 - [ ] Commit the profile documents
 
@@ -42,5 +42,5 @@
 
 - [ ] Create and push the public profile repository
 - [ ] Add concise descriptions and topics to the four portfolio repositories
-- [ ] Confirm all four draft PR checks remain successful
+- [ ] Confirm all four merged PR checks remain successful
 - [ ] Confirm no path containing `code-navi` appears in any changed-file list

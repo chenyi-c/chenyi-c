@@ -26,6 +26,6 @@ Create one GitHub profile entry that lets a reviewer understand the candidate, t
 ## ✅ Acceptance
 
 - The profile repository is public and named `chenyi-c/chenyi-c`
-- Every project row links to a repository and verified draft PR
+- Every project row links to a repository and verified merged PR
 - Both primary repositories link to a reusable interview pack
 - Markdown has no placeholder text, broken relative links, or unsupported claims
