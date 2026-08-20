@@ -37,5 +37,5 @@
 
 - [x] Check links, Markdown, secrets, and Git diff.
 - [x] Verify `origin` and `gh repo view` owner are `chenyi-c`.
-- [ ] Commit the exact portfolio files and push the feature branch.
-- [ ] Open one Draft PR without merging `main`.
+- [x] Commit the exact portfolio files and push the feature branch.
+- [x] Open one Draft PR without merging `main`.
